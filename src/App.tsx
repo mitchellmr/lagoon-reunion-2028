@@ -59,20 +59,18 @@ export default function App() {
         <div className="nav-wrap">
           <nav className="toc" aria-label="Itinerary">
             <h2>Your week at a glance</h2>
-            <ul>
-              <li>
+            <div>
                 <a href="#day-1">Day 1 — Welcome &amp; fireworks</a>
-              </li>
-              <li>
+              </div>
+              <div>
                 <a href="#day-2">Day 2 — Lagoon</a>
-              </li>
-              <li>
+              </div>
+              <div>
                 <a href="#day-3">Day 3 — Antelope Island &amp; Weber River</a>
-              </li>
-              <li>
+              </div>
+              <div>
                 <a href="#day-4">Day 4 — Temple, farewell &amp; optional stay</a>
-              </li>
-            </ul>
+              </div>
           </nav>
         </div>
 
