@@ -127,33 +127,17 @@ export default function App() {
                 <div className="spotlight__frame">
                   <img
                     className="spotlight__img"
-                    src={IMG.lagoon}
+                    src={"images/lagoon.png"}
                     width={1600}
                     height={1200}
-                    alt="Turn of the Century swing ride at Lagoon amusement park in Farmington, Utah."
+                    alt="Lagoon amusement park in Farmington, Utah."
                     loading="lazy"
                     decoding="async"
                   />
                 </div>
                 <figcaption className="spotlight__caption">
                   The Turn of the Century ride at Lagoon—classic summer energy in
-                  Farmington. Photo: Ricardo630 (
-                  <a
-                    href="https://commons.wikimedia.org/wiki/File:Lagoon_park_utah_turn_of_the_century.jpg"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Wikimedia Commons
-                  </a>
-                  ,{' '}
-                  <a
-                    href="https://creativecommons.org/licenses/by-sa/4.0/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    CC&nbsp;BY‑SA&nbsp;4.0
-                  </a>
-                  ).
+                  Farmington.
                 </figcaption>
               </figure>
 
@@ -198,7 +182,7 @@ export default function App() {
                 <div className="spotlight__frame">
                   <img
                     className="spotlight__img"
-                    src={IMG.antelope}
+                    src={"images/antelope-island.png"}
                     width={1600}
                     height={1200}
                     alt="Antelope Island rising above the Great Salt Lake, seen from the causeway."
@@ -208,16 +192,8 @@ export default function App() {
                 </div>
                 <figcaption className="spotlight__caption">
                   Antelope Island and the Great Salt Lake—big sky country for our Fielding
-                  Garr morning. Photo: Tom53 (
-                  <a
-                    href="https://commons.wikimedia.org/wiki/File:Antelope_Island.jpg"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Wikimedia Commons
-                  </a>
-                  , public domain).
-                </figcaption>
+                  Garr morning.
+                  </figcaption>
               </figure>
 
               <ul>
@@ -244,25 +220,17 @@ export default function App() {
                 <div className="spotlight__frame spotlight__frame--portrait">
                   <img
                     className="spotlight__img"
-                    src={IMG.weber}
-                    width={768}
-                    height={1024}
-                    alt="Angler fishing on the Weber River with trees along the bank."
+                    src={"images/weber-river.png"}
+                    width={1600}
+                    height={900}
+                    alt="Family float down the Weber River."
                     loading="lazy"
                     decoding="async"
                   />
                 </div>
                 <figcaption className="spotlight__caption">
                   The Weber River—green banks and calm stretches perfect for a mellow
-                  afternoon float. Photo: Bureau of Land Management Utah (
-                  <a
-                    href="https://commons.wikimedia.org/wiki/File:Fishing_on_Weber_River_(41212343841).jpg"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Wikimedia Commons
-                  </a>
-                  , public domain U.S. federal work).
+                  afternoon float.
                 </figcaption>
               </figure>
 
@@ -297,7 +265,7 @@ export default function App() {
                 <div className="spotlight__frame">
                   <img
                     className="spotlight__img"
-                    src={IMG.laytonTemple}
+                    src={"images/layton-temple.png"}
                     width={1600}
                     height={900}
                     alt="Exterior of the Layton Utah Temple at dusk with landscaped grounds."
@@ -307,23 +275,6 @@ export default function App() {
                 </div>
                 <figcaption className="spotlight__caption">
                   Layton Utah Temple—peaceful grounds for reflection before travels home.
-                  Photo: Whatsupchadjames (
-                  <a
-                    href="https://commons.wikimedia.org/wiki/File:LaytonUtahTemple.jpg"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Wikimedia Commons
-                  </a>
-                  ,{' '}
-                  <a
-                    href="https://creativecommons.org/licenses/by-sa/4.0/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    CC&nbsp;BY‑SA&nbsp;4.0
-                  </a>
-                  ).
                 </figcaption>
               </figure>
 
