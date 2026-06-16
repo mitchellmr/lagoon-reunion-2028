@@ -1,16 +1,5 @@
 import './App.css'
 
-/** Wikimedia Commons — hotlinked per each file’s license; see footer for attribution. */
-const IMG = {
-  lagoon:
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lagoon_park_utah_turn_of_the_century.jpg/1600px-Lagoon_park_utah_turn_of_the_century.jpg',
-  antelope:
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Antelope_Island.jpg/1600px-Antelope_Island.jpg',
-  weber:
-    'https://upload.wikimedia.org/wikipedia/commons/6/68/Fishing_on_Weber_River_%2841212343841%29.jpg',
-  laytonTemple:
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/LaytonUtahTemple.jpg/1600px-LaytonUtahTemple.jpg',
-} as const
 
 export default function App() {
   return (
