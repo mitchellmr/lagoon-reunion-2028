@@ -11,7 +11,7 @@ export default function App() {
           <div className="hero__content">
             <p className="hero__eyebrow">Save the date</p>
             <h1 className="hero__title">
-              Five days in Farmington — <em>together.</em>
+             Four days in Farmington — <em>together.</em>
             </h1>
             <p className="hero__subtitle">
               We are honored to host the extended family for the 2028 reunion: summer
@@ -239,7 +239,7 @@ export default function App() {
           <article className="day-card" id="day-4">
             <div className="day-card__shine" aria-hidden />
             <div className="day-card__inner">
-              <p className="day-card__label">Days 4–5 · July 7–8</p>
+              <p className="day-card__label">Days 4 · July 7</p>
               <h2>Gratitude, temple, and travels home</h2>
               <p>
                 Sunday we reset the house together—many hands make light work, and it
@@ -269,8 +269,7 @@ export default function App() {
 
               <ul>
                 <li>
-                  <strong>Clean-up:</strong> simple tasks, clear instructions, coffee
-                  for the early crew.
+                  <strong>Clean-up:</strong> simple tasks, faster when we work together, and say goodbye.
                 </li>
                 <li>
                   <strong>Temple:</strong> optional; we will share times and
