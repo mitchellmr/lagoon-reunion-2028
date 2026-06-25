@@ -17,7 +17,7 @@ export default function App() {
               We are honored to host the extended family for the 2028 reunion: summer
               nights, laughter, roots and river water, and room to catch up for real.
             </p>
-            <p className="hero__hosts">Hosted with love · July 4–8, 2028</p>
+            <p className="hero__hosts">Hosted with love · July 4–7, 2028</p>
           </div>
         </header>
 
