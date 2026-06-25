@@ -24,7 +24,7 @@ export default function App() {
         <section className="highlights" aria-label="Key details">
           <div className="highlight">
             <p className="highlight__label">When</p>
-            <p className="highlight__value">July 4 – 8, 2028</p>
+            <p className="highlight__value">July 4 – 7, 2028</p>
           </div>
           <div className="highlight">
             <p className="highlight__label">Where</p>
